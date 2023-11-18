@@ -1,0 +1,119 @@
+{
+  "Seems like we have a trouble. See logs for more information": {
+    "ru": "Что-то пошло не так. Посмотри логи",
+    "en": "Seems like we have a trouble. See logs for more information"
+  },
+  "Hello, {}! How can I help you today?": {
+    "ru": "Привет, {}! Чем могу помочь?",
+    "en": "Hello, {}! How can I help you today?"
+  },
+  "Good day to you {}! How can I help you today?": {
+    "ru": "Здравствуй, {}! Какой план на сегодня?",
+    "en": "Good day to you {}! How can I help you today?"
+  },
+  "Goodbye, {}! Have a nice day!": {
+    "ru": "До связи, {}! Хорошего тебе дня!",
+    "en": "Goodbye, {}! Have a nice day!"
+  },
+  "See you soon, {}!": {
+    "ru": "До свидания, {}!",
+    "en": "See you soon, {}!"
+  },
+  "Here is what I found for {} on google": {
+    "ru": "Вот, что умне удалось найти по запросу {} в Гугл",
+    "en": "Here is what I found for {} on google"
+  },
+  "Here is what I found for {} on youtube": {
+    "ru": "Вот, что умне удалось найти по запросу {} на Ютьюб",
+    "en": "Here is what I found for {} on youtube"
+  },
+  "Here is what I found for {} on Wikipedia": {
+    "ru": "Вот, что умне удалось найти по запросу {} в Википедии",
+    "en": "Here is what I found for {} on Wikipedia"
+  },
+  "Can't find {} on Wikipedia. But here is what I found on google": {
+    "ru": "Не могу найти в Википедии ничего по запросу {}. Но вот, что мне удалось найти в Гугл",
+    "en": "Can't find {} on Wikipedia. But here is what I found on google"
+  },
+
+  "The temperature is {} degrees Celsius": {
+    "ru": "Температура {} градусов Цельсия",
+    "en": "The temperature is {} degrees Celsius"
+  },
+  "The wind speed is {} meters per second": {
+    "ru": "Скорость ветра {} метров в секунду",
+    "en": "The wind speed is {} meters per second"
+  },
+  "The pressure is {} mm Hg": {
+    "ru": "Давление {} миллиметров ртутного столба",
+    "en": "The pressure is {} mm Hg"
+  },
+  "Here is what I found for {} on social nets": {
+    "ru": "Вот, что мне удалось найти по запросу {} в социальных сетях",
+    "en": "Here is what I found for {} on social nets"
+  },
+  "Can you repeat, please?": {
+    "ru": "Можешь повторить?",
+    "en": "Can you repeat, please?"
+  },
+  "At the moment {}": {
+    "ru": "Сейчас {}",
+    "en": "At the moment {}"
+  },
+    "Now I will open a paycharm": {
+    "ru": "Сейчас я открою paycharm",
+    "en": "Now I will open a paycharm"
+  },
+  "The moment I open the music folder": {
+    "ru": "Момент, я открываю папку с музыкой",
+    "en": "The moment I open the music folder"
+  },
+    "Current weather in {}": {
+    "ru": "Текущая погода в {}",
+    "en": "Current weather in {}"
+  },
+  "Temperature: {}° Celsius": {
+    "ru": "Температура: {}° Цельсия",
+    "en": "Temperature: {}° Celsius"
+  },
+    "Description: {}": {
+    "ru": "Описание: {}",
+    "en": "Description: {}"
+  },
+  "I'm here to help you {}": {
+    "ru": "Я здесь чтобы помочь тебе {}",
+    "en": "I'm here to help you {}"
+  },
+  "{}, the request is not clear, use the 'help' command": {
+    "ru": "{}, запрос не понятен, воспользуйся командой 'help'",
+    "en": "{}, the request is not clear, use the 'help' command"
+  },
+  "Here's a list of my commands and code words for you": {
+    "ru": "Вот тебе список моих команд и кодовые слова",
+    "en": "Here's a list of my commands and code words for you"
+  },
+    "mistake": {
+    "ru": "ошибка",
+    "en": "mistake"
+  },
+  "To open the todo list, click on the corresponding button": {
+    "ru": "Чтобы открыть todo список нажмите на соответсвующую кнопку",
+    "en": "To open the todo list, click on the corresponding button"
+  },
+    "Event Name {}": {
+    "ru": "Название {}",
+    "en": "Event Name {}"
+  },
+  "Event Date {}": {
+    "ru": "Дата {}",
+    "en": "Event Date {}"
+  },
+  "Description {}": {
+    "ru": "Описание {}",
+    "en": "Description {}"
+  },
+  "Speech not recognized": {
+    "ru": "Речь не распознана",
+    "en": "Speech not recognized"
+  }
+}
